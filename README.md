@@ -1,6 +1,6 @@
 ## Hey, y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Gracen. I'm a data scientist with a background in statistics, communications, and international relations. Currently researching predictive conflict analysis as a master's student at Columbia University. Previously with UN Peacekeeping's CPAS Team.
+My name is Gracen. I'm a data scientist with a background in statistics, communications, and international relations. Currently researching predictive conflict analysis at and working on open-source software.
 
 <!--
 **gbourbeau/gbourbeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
